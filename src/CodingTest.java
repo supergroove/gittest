@@ -239,9 +239,7 @@ public class CodingTest {
 		
 //		code.level1_2();
 		code.level1_5();
-		// test
-		
-		
+		// test2
 	}
 
 }
