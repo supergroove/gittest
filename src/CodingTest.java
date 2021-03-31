@@ -115,7 +115,8 @@ public class CodingTest {
 	
 	private void level1_1() {
 //		int[] numbers = {2,1,3,4,1};
-		int[] numbers = {5,0,2,7};
+		int[] numbers = {5,0,2,7};	// test
+		
 		
 		List<Integer> list = new ArrayList<Integer> ();
 		
